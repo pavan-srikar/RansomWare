@@ -1,6 +1,3 @@
-Here's the complete `README.md` content in one code block:
-
-```markdown
 # Ransomware Encryption Tool
 
 ## Introduction
