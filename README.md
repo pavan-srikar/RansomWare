@@ -74,13 +74,3 @@ Replace `your_script_name.py` with the name of your Python script. This will gen
 2. Run the script to encrypt the files and folders in the specified directory.
 3. After encryption, a popup will notify you, and you can choose to open an HTML file or close the window.
 
-## Contributing
-
-Feel free to open issues or submit pull requests if you have suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can copy and paste this into your `README.md` file. Adjust the `your_script_name.py` placeholder as needed and make sure to create a `requirements.txt` file listing all necessary Python packages.
